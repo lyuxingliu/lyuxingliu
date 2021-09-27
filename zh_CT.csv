@@ -1,0 +1,162 @@
+Status,Translator,Message,Translate
+Valid,nonPointer,About,關於
+Valid,nonPointer,Activate automatic connection / reconnection,啟用自動連接/重新連接
+Valid,nonPointer,Additional grace period limit. Accepted value: Numeric value from 0 to 3600.,增加寬限期限制。值：0-3600。
+Valid,nonPointer,Alert,警告
+Valid,nonPointer,Allow additional time during the shutdown procedure. Note: This additional time could go beyond the UPS backup time - USE WITH CAUTION!!!,在關機過程中允許的額外時間。注意: 這段額外時間可能超過 UPS 的使用時間 - 謹慎使用！！！
+Valid,nonPointer,Allow Extended Shutdown Time,允許的延長關機時間
+Valid,nonPointer,Application shut down at,應用程式被關閉於
+Valid,nonPointer,Apply,應用
+Valid,nonPointer,Automatic Reconnection,自動重連
+Valid,nonPointer,Battery Charge,電池電量
+Valid,nonPointer,Battery OK,電池正常
+Valid,nonPointer,Battery_Charge : {0} Remaining Time : {1},電池電量 : {0} 時間 : {1}
+Valid,nonPointer,Battery_Charge : {WinNUT.UPS_BattCh} Remaining Time : {WinNUT.Lbl_VRTime.Text},電池電量 : {WinNUT.UPS_BattCh} 剩餘時間 : {WinNUT.Lbl_VRTime.Text}
+Valid,nonPointer,Battery Voltage,電池電壓
+Valid,nonPointer,Calibration,校正
+Valid,nonPointer,Cancel,取消
+Valid,nonPointer,Cancellation of the Extinguishing Process,取消關機程序
+Valid,nonPointer,Check for updates.,檢查更新。
+Valid,nonPointer,Checks for updates at startup.,在啟動時檢查更新。
+Valid,Gawindx,Clear,清空
+Valid,nonPointer,Close,關閉
+Valid,Gawindx,Close to Systray,關閉至工作列
+Valid,nonPointer,Conditions met for launching the Extinguishing Process,觸發關機程序所需滿足的條件
+Valid,nonPointer,Connected,已連接
+Valid,nonPointer,Connection,連接
+Valid,nonPointer,Connection to Nut Host {0}:{1} Established,至 Nut 主機 {0}:{1} 的連接建立成功
+Valid,nonPointer,Connection to Nut Host {0}:{1} Failed: {2},至 Nut 主機 {0}:{1} 的連接建立失敗: {2}
+Valid,Gawindx,Copy,複製
+Valid,nonPointer,Create a log file (WinNUT-client.log file in the WinNUT installation directory).,創建紀錄檔（WinNUT-client.log 檔位於 WinNUT 的安裝目錄）。
+Valid,nonPointer,Create LogFile,建立紀錄檔
+Valid,nonPointer,Daily,每天
+Valid,nonPointer,Debug,除錯
+Valid,nonPointer,Delay Between Verification,每次檢驗的延時
+Valid,nonPointer,Delay to Shutdown (sec),延時關機（秒）
+Valid,nonPointer,Delete log file.,刪除紀錄檔。
+Valid,Gawindx,Description :,描述：
+Valid,nonPointer,Development,開發版
+Valid,nonPointer,Disconnect,離線
+Valid,nonPointer,Disconnected from Nut Host,至 Nut 主機離線。
+Valid,nonPointer,Download New Version from :,下載新版本：
+Valid,nonPointer,Error,錯誤
+Valid,nonPointer,Exit,退出
+Valid,nonPointer,Extinction In Progress,正在關機
+Valid,nonPointer,File,文件
+Valid,nonPointer,Firmware :,韌體：
+Valid,Gawindx,Frequency,頻率
+Valid,nonPointer,Frequency of verification.,驗證頻率。
+Valid,nonPointer,Frequency Supply,供電頻率
+Valid,nonPointer,Grace Delay to Shutdown (sec),關機的寬限延時（秒）：
+Valid,nonPointer,Grace Time,寬限時間
+Valid,nonPointer,Help,幫助
+Valid,nonPointer,Hibernate,休眠
+Valid,nonPointer,Hide ChangeLog,隱藏更新日誌
+Valid,nonPointer,Immediate Shutdown,立即關機
+Valid,nonPointer,Immediate stop action,即時停機操作
+Valid,nonPointer,Import Ini File (v1.x),導入 Ini 文件（v1.x 版本）
+Valid,Gawindx,Indicates whether a shutdown should be performed when the NUT server signals a forced shutdown (FSD = Force ShutDown),指示當NUT伺服器發出強制關機信號（FSD）時是否應執行關機操作
+Valid,nonPointer,Input Frequency,輸入頻率
+Valid,nonPointer,Input Voltage,輸入電壓
+Valid,Gawindx,Item Properties,專案屬性
+To Validate,Gawindx,List UPS Variables,UPS變數清單
+Valid,nonPointer,Log file log level,日誌記錄等級
+Valid,nonPointer,Logging level,日誌等級
+Valid,nonPointer,Logging level.,日誌等級。
+Valid,nonPointer,Login,登錄
+Valid,nonPointer,Login credentials to the Nut server (leave blank if not required),Nut伺服器的登錄憑據（如果不需要，請留空）
+Valid,nonPointer,Lost Connect To {0}:{1},斷開了至 {0} 的連接：{1}
+Valid,nonPointer,Low Battery,電池電量過低
+Valid,nonPointer,Lower backup time limit triggering the shutdown procedure. Accepted value: Numeric value from 0 to 3600.,觸發停機流程的最低續航時間。取值：0-3600 之間的數值。
+Valid,nonPointer,Lower limit of the battery level triggering the shutdown procedure. Accepted value: Numeric value from 0 to 100.,觸發停機流程的最低電池電量百分比。取值：0-100 之間的數值。
+Valid,nonPointer,Manufacturer :,製造商：
+Valid,nonPointer,Max,最高
+Valid,nonPointer,Max Retry reached. Wait for manual Reconnection,達到最大重試次數。等待手動重連。
+Valid,nonPointer,Maximum Battery Voltage. Accepted value: Numeric value from 0 to 100.,最高電池電壓。取值：0-100 之間的數值。
+Valid,nonPointer,Maximum input frequency. Accepted value: Numeric value from 0 to 100.,最高輸入頻率。取值：0-100 之間的數值。
+Valid,nonPointer,Maximum input voltage. Accepted value: Numeric value from 0 to 999.,最高輸入電壓。取值：0-999 之間的數值。
+Valid,nonPointer,Maximum Load Level of the UPS. Accepted value: Numeric value from 0 to 100.,最高 UPS 電量等級。取值：0-100 之間的數值。
+Valid,nonPointer,Maximum Output Voltage. Accepted value: Numeric value from 0 to 999.,最高輸出電壓。取值：0-999 之間的數值。
+Valid,nonPointer,Min,最低
+Valid,Gawindx,Minimize to tray,最小化至系統託盤
+Valid,nonPointer,Minimum Battery Voltage. Accepted value: Numeric value from 0 to 100.,最低電池電壓。取值：0-100 之間的數值。
+Valid,nonPointer,Minimum Charge Level of the UPS. Accepted value: Numeric value from 0 to 100.,最低 UPS 電量等級。取值：0-100 之間的數值。
+Valid,nonPointer,Minimum input frequency. Accepted value: Numeric value from 0 to 100.,最低輸入頻率。取值：0-100 之間的數值。
+Valid,nonPointer,Minimum input voltage. Accepted value: Numeric value from 0 to 999.,最低輸入電壓。取值：0-999 之間的數值。
+Valid,nonPointer,Minimum Output Voltage. Accepted value: Numeric value from 0 to 999.,最低輸出電壓。取值：0-999 之間的數值。
+Valid,nonPointer,Miscellanous,其他
+Valid,nonPointer,Monthly,每月
+Valid,nonPointer,Name :,名稱：
+Valid,nonPointer,No Update Available,沒有可用的更新
+Valid,nonPointer,Not Connected,未連接
+Valid,nonPointer,Notice,注意
+Valid,nonPointer,NUT host,NUT 主機
+Valid,nonPointer,NUT Port,NUT 埠
+Valid,nonPointer,Nut server address. Accepted value: IPV4 / IPV6 / FQDN address.,Nut 伺服器地址。取值：IPv4/IPv6/FQDN 地址
+To validate,Gawindx,NUT server connection identifier,NUT伺服器連接識別字
+To validate,Gawindx,NUT server login password,NUT伺服器登錄密碼
+Valid,nonPointer,Nut Server Port Number (default = 3493). Accepted value: Numeric value from 1 to 65535.,Nut 伺服器埠（默認為3493）。取值：1-65535 之間的數值。
+Valid,nonPointer,Ok,好的
+Valid,nonPointer,Old ups.ini imported,導入了舊的 ups.ini
+Valid,nonPointer,Old ups.ini imported Ini File Moved to {0}.old,導入了舊的 ups.ini Ini 檔重命名為 {0}.old
+Valid,nonPointer,On Battery ({0}%),使用電池中 ({0}%)
+Valid,nonPointer,On Line,使用市電中
+Valid,nonPointer,Open the log file.,打開紀錄檔。
+Valid,nonPointer,Options,選項
+Valid,nonPointer,Output Voltage,輸出電壓
+Valid,nonPointer,Password,密碼
+Valid,Gawindx,Polling Interval,輪詢間隔
+Valid,nonPointer,Reconnect,重新連接
+Valid,nonPointer,Reconnection In Progress,重連中
+Valid,nonPointer,Reduced to the taskbar or Systray.,縮小至工作列。
+Valid,nonPointer,Re-establish connection,重新建立連接
+Valid,Gawindx,Reload,重載
+Valid,nonPointer,Remaining Time :,剩餘時間：
+To Validate,Gawindx,Restarting WinNUT after waking up from Windows.,從Windows喚醒後重新啟動WinNUT。
+Valid,nonPointer,Sends in Systray at closing.,關閉程式時縮小至工作列。
+Valid,nonPointer,Serial :,序號：
+Valid,nonPointer,Sets the input frequency if not supplied by the UPS.,設置輸入頻率（如果UPS未提供）
+Valid,nonPointer,Settings,設置
+Valid,nonPointer,Show ChangeLog,顯示更新日誌
+Valid,nonPointer,Shutdown,關機
+Valid,nonPointer,Shutdown if battery lower than,如果電池低於百分比則關機
+Valid,nonPointer,Shutdown if runtime lower than (sec),如果續航時間低於則關機
+Valid,Gawindx,Shutdown on NUT's FSD Signal,收到 FSD（強制關機）信號後關機
+Valid,nonPointer,Shutdown Options,關機選項
+Valid,nonPointer,Sleep,睡眠
+Valid,nonPointer,Stable,穩定
+Valid,nonPointer,Stable Or Dev Branch,穩定或開發分支
+Valid,nonPointer,Start Minimized,啟動時最小化當前應用
+Valid,nonPointer,Start with Windows,隨 Windows 啟動當前應用
+Valid,nonPointer,Starts the shutdown procedure immediately or timed.,立刻或定時執行關機流程。
+Valid,nonPointer,Starts WinNut Minimized.,啟動時最小化 WinNUT。
+Valid,nonPointer,Starts WinNUT when Windows starts.,隨 Windows 啟動 WinNUT。
+To validate,Gawindx,Stop condition imposed by the NUT server,NUT伺服器施加的停止條件
+Valid,nonPointer,Stop procedure delay if delayed. Accepted value: Numeric value from 0 to 3600.,停機流程延時。取值：0-3600 秒之間的數值。
+Valid,gawindx,Time between each update of UPS data (default = 5).Accepted value: Numerical value from 1 to 60 seconds.,UPS 資料的更新頻率（預設值5秒）。接受值：1到60秒之間的數值。
+Valid,nonPointer,Try {0} of {1},嘗試 {1} 的 {0}
+Valid,nonPointer,Try Reconnect {0} / {1},嘗試重連 {0} / {1}
+Valid,nonPointer,Type of Stop,停機類型
+Valid,nonPointer,Type of stop at the end of the stop procedure.,停機流程結束時的停機類型
+Valid,nonPointer,Unknown UPS Name,未知的 UPS 名稱
+Valid,nonPointer,Update,更新
+Valid,nonPointer,Update Available : Version {0},可用的新版本：{0}
+Valid,nonPointer,Update WinNUT-Client Now? Ok to Close WinNut and Install New Version Cancel to Save Msi and Install Later,立即更新WinNUT-Client嗎？按一下確定以關閉WinNut並安裝新版本 取消以保存 Msi 並於稍後安裝
+Valid,nonPointer,UPS Battery Low,UPS 電池電量低
+Valid,nonPointer,UPS Load,UPS 負載
+Valid,nonPointer,UPS Name,UPS 名稱
+Valid,nonPointer,UPS name to monitor. Accepted Value: Name of the UPS configured in the Nut server.,監控的 UPS 名稱。允許值：在 UPS 的 Nut 服務端所配置的名稱。
+Valid,nonPointer,UPS On Battery,UPS 使用電池工作
+Valid,nonPointer,UPS On Line,UPS 已接入市電
+Valid,nonPointer,UPS Overload,UPS 超載
+Valid,nonPointer,UPS Variable,UPS 變數
+Valid,nonPointer,Use the Stable or Devellop branch during verification.,在驗證期間使用穩定或開發分支。
+Valid,Gawindx,Value :,值：
+Valid,nonPointer,Verify Update,驗證更新
+Valid,nonPointer,Verify Update At Start,在啟動時驗證更新
+Valid,nonPointer,Version {0} Available,新版本 {0} 可供更新
+Valid,nonPointer,Weekly,每週
+Valid,nonPointer,WinNut Preferences Changed,WinNut 設置已修改
+to Validate, Gawindx,Windows standby. WinNUT will disconnect.,Windows待機。 WinNUT將斷開連接。 
+Valid,nonPointer,Wrong Login ID (Username or Password),錯誤的登錄憑據（用戶名或密碼）
+
